@@ -10,5 +10,5 @@ This is a very simple PHP library for interacting with the v3 bit.ly api (suppor
 
 - Please update this info in index.php
 
-$bitly_login = '';  
-$bitly_apikey = ''; 
+  $bitly_login = '';  
+  $bitly_apikey = ''; 
